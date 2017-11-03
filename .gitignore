@@ -1,0 +1,7 @@
+MyBot
+halite
+dist/
+*.log
+*.hi
+*.o
+replay-*
